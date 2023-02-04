@@ -1,3 +1,3 @@
-# NAl0-TR
+# NA-L0-TR
 
-FGNET.zip and P04 contain the processed data of two 
+This is the repo for the paper "Noise-Augmented l0 Regularization of Tensor Regression with Tucker Decomposition". This repo contains the codes and preprocessed data for this paper.
